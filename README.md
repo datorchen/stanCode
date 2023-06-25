@@ -1,7 +1,7 @@
 ## *stanCode* Projects
 Hello there!\
 This repository holds my programming homework done during the period of stanCode SC101 course.
-(no optimization, first version submitted)
+(no optimization, submitted first version)
 
 ## Project Source Code:
 * [Hangman Game]()
