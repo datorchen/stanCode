@@ -1,12 +1,10 @@
 ## *stanCode* Projects
 Hello there!\
-This repository holds my programming homework done during the period of stanCode SC101 course.
+This repository holds my programming homework done during the period of stanCode SC101 course.\
 (no optimization, submitted first version)
 
 ## Project Source Code:
 * [Hangman Game]()
-  * python semantics & syntax
-* [Weather Master]()
   * python semantics & syntax
 * [MyPhotoshop]()
   * image processing
